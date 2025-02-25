@@ -1,0 +1,25 @@
+/* app.component.css */
+.container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  header {
+    background-color: #f4f4f9;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  footer {
+    margin-top: 20px;
+    background-color: #f4f4f9;
+    padding: 10px;
+    border-radius: 8px;
+  }
+  
+  .chart-container {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+  }
+  
